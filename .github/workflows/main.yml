@@ -34,7 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-name: 7oda
+name: @@@7oda000
 
 on: workflow_dispatch
 
